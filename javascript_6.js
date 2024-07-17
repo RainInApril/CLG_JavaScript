@@ -24,5 +24,3 @@ heading.addEventListener('mouseout', function () {
 
 const changeColorButton = document.getElementById('change-color');
 changeColorButton.addEventListener('click', changeHeadingColor);
-
-changeColorButton();
