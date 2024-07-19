@@ -19,3 +19,22 @@ p {
 .highlighted {
     background-color: yellow;
 }
+
+.cat-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.cat-item img {
+    width: 100px;
+    margin-right: 10px;
+}
+
+.adopted {
+    font-weight: bold;
+}
+
+.first-cat {
+    background-color: #eee;
+}
